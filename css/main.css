@@ -1,0 +1,222 @@
+/* 
+    Wrriten by Saeed Pirbodaghi 
+    Version: 1.0
+*/
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    min-height: 2000px;
+}
+.w100-h60{
+    width: 100%;
+    height: 60px;
+}
+.w100-h400{
+    width: 100%;
+    height: 400px;
+}
+.w52-h52{
+width: 52px;
+height: 52px;
+margin-left: 55.5px;
+margin-top: 10px;
+}
+header.header{
+    border-bottom: 2px solid #F0F0F1;
+}
+div.banner{
+    height: fit-content;
+}
+div.search-register-main{
+    display: flex;
+    width: 1644px;
+    height: 64px;
+    margin: auto;
+}
+div.logo-box{
+    display: inline-block;
+    width: 150px;
+}
+div.register-box{
+    display: inline-block;
+    width: 200px;
+}
+div.search-box{
+    display: inline-block;
+    width: 1294px;
+}
+img.logo{
+    margin-left:30px ;
+    margin-top: 17px;
+}
+div.search-box-field{
+    background-color: #F0F0F1;
+    height: 44px;
+    width: 600px;
+    margin-left: 690px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+div.register-box-content{
+    height: 40px;
+    width: 135px;
+    margin-top: 11px;
+    margin-left: 60px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1.5px;
+    border-color: #c9c9ca;
+    text-align: center;
+}
+nav.top-menu{
+    display: flex;
+    height: 40px;
+    width: 1644px;
+    margin: auto;
+}
+div.links{
+    display: inline-block;
+    width: 822px;
+    height: 100%;
+    text-align: right;
+}
+div.choose-city{
+    display:inline-block;
+    width: 822px;
+    height: 100%;
+    text-align: left;
+}
+div.slider-top{
+    display:contents;
+    width: 100%;
+    height: 400px;
+    position: relative;
+}
+div.links-w100-h100{
+    height: 100px;
+    width: 100%;
+    margin-top: 24px;
+}
+div.links-outer{
+    display: flex;
+    height: 100%;
+    width: 1304px;
+    margin: auto;
+}
+div.Links-outer-product{
+    display: inline-block;
+    width: 163px;
+    height: 100%;
+}
+div.pic-product{
+    width: 100%;
+    height: 70%;
+}
+div.text-product{
+    width: 100%;
+    height: 30%;
+    text-align: center;
+}
+div.links-circle{
+    display: inline-block;
+    height: 52px;
+    width: 52px;
+    background-color: #F0F0F1;
+    margin-left: 55.5px;
+    border-radius: 26px;
+    margin-top: 10px;
+}
+img.more-center{
+    margin-left: 15px;
+    margin-top: 14px;
+}
+div.Shegeft-Angiz-container{
+    height: 286px;
+    width: 100%;
+    margin-top: 24px;
+}
+div.Shegeft-Angiz-content{
+    display: flex;
+    height: 100%;
+    width: 1304px;
+    background-color: #F0394E;
+    margin: auto;
+    border-radius: 20px;
+}
+div.SA-content-right{
+    height: 100%;
+    width: 173px;
+}
+div.SA-content-left{
+    margin: auto;
+    height: 246px;
+    width: 1112px;
+}
+div.SA-contents{
+    display: inline-block;
+    height: 100%;
+    width: 182px;
+    background-color: white;
+}
+div.SA-contents-right{
+    display: inline-block;
+    height: 100%;
+    width: 182px;
+    background-color: white;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+div.SA-contents-left{
+    display: inline-block;
+    height: 100%;
+    width: 182px;
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+div.Shegeft-Angiz-supermarket-container{
+    width: 100%;
+    height: 102px;
+    margin-top: 10px;
+}
+div.Shegeft-Angiz-supermarket-content{
+    width: 1304px;
+    height: 100%;
+    margin: auto;
+    background-color: #EBEEEB;
+    border-radius: 15px;
+}
+div.box4-container{
+    width: 100%;
+    height: 235.5px;
+    margin-top: 24px;
+}
+div.box4-main-container{
+    display: flex;
+    width: 1304px;
+    height: 100%;
+    margin: auto;
+}
+div.box4-boxes{
+    height: 100%;
+    width: 314px;
+    background-color: #EDC121;
+    border-radius: 15px;
+    margin:auto;
+}
+img.box4-img{
+    width: 100%;
+    border-radius: 15px;
+}
+div.dastebandi-container{
+    width: 100%;
+    height: 30px;
+    margin-top: 50px;
+}
+span.dastebandi-text{
+    display: block;
+    text-align: center;
+    font-size: 25px;
+}
